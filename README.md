@@ -41,4 +41,4 @@ Produce [budget_analysis.txt](analysis/budget_analysis.txt) results formatted in
 ![alt text](./images/ft.png)
 
 # COMPLETED ASSIGNMENT
-Follow thi link [completed_assignment](PyBank/main.ipynb) to veiw my completed assignment.
+Follow this link [completed_assignment](PyBank/main.ipynb) to veiw my completed assignment.
