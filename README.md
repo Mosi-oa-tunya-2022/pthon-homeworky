@@ -15,12 +15,12 @@ By: Nelson Lubinda
 ```
  ## ACTIVITY
 
-In this activity, I am tasked with creating a Python script for analyzing the financial records of my company. 
-A financial dataset in the [budget_data.csv](resources/budget_data.csv) file is provided. This dataset is composed of two columns, Date and Profit/Losses. 
+In this activity, I am tasked with creating a Python script for analyzing financial records of PyBank. 
+A financial dataset [budget_data.csv](resources/budget_data.csv) file is provided. 
 
+This dataset is composed of two columns, Date and Profit/Losses. 
 
-
-  ## REQUIREMENTS:
+## REQUIREMENTS:
 
 Task at hand is to create a Python script that analyzes the records to calculate each of the following:
 
